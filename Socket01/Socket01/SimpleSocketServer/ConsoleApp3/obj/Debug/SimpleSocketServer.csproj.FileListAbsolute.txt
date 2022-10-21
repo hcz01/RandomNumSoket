@@ -1,8 +1,0 @@
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe.config
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.exe
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\bin\Debug\SimpleServer.pdb
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.AssemblyReference.cache
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.SuggestedBindingRedirects.cache
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleSocketServer.csproj.CoreCompileInputs.cache
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.exe
-C:\Users\admin\Documents\Socket01\Socket01\SimpleSocketServer\ConsoleApp3\obj\Debug\SimpleServer.pdb
