@@ -1,0 +1,15 @@
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\bin\Debug\netcoreapp3.1\SimpleServer.exe
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\bin\Debug\netcoreapp3.1\SimpleServer.deps.json
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\bin\Debug\netcoreapp3.1\SimpleServer.runtimeconfig.json
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\bin\Debug\netcoreapp3.1\SimpleServer.runtimeconfig.dev.json
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\bin\Debug\netcoreapp3.1\SimpleServer.dll
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\bin\Debug\netcoreapp3.1\SimpleServer.pdb
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.csprojAssemblyReference.cache
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.Form1.resources
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.csproj.GenerateResource.cache
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.AssemblyInfoInputs.cache
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.AssemblyInfo.cs
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.csproj.CoreCompileInputs.cache
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.dll
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.pdb
+C:\Users\hu.17169\source\repos\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.1\SimpleServer.genruntimeconfig.cache

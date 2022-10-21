@@ -1,0 +1,15 @@
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\bin\Debug\netcoreapp3.1\Simple_client.exe
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\bin\Debug\netcoreapp3.1\Simple_client.deps.json
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\bin\Debug\netcoreapp3.1\Simple_client.runtimeconfig.json
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\bin\Debug\netcoreapp3.1\Simple_client.runtimeconfig.dev.json
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\bin\Debug\netcoreapp3.1\Simple_client.dll
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\bin\Debug\netcoreapp3.1\Simple_client.pdb
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.csprojAssemblyReference.cache
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.Form1.resources
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.csproj.GenerateResource.cache
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.AssemblyInfoInputs.cache
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.AssemblyInfo.cs
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.csproj.CoreCompileInputs.cache
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.dll
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.pdb
+C:\Users\hu.17169\source\repos\Simple_client\Simple_client\obj\Debug\netcoreapp3.1\Simple_client.genruntimeconfig.cache

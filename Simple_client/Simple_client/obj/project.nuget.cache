@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vu1gvBx1Xq44gaD+OrGq7LflCjsDUtrZR0xMy6qiswdLlFhHG2tz9l0O5BTYB8cw4qyfD1RFZciX0PEyJMIaHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hu.17169\\source\\repos\\Simple_client\\Simple_client\\Simple_client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hu.17169\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
